@@ -9,13 +9,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif"  />
+<br>
+  <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph  "  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
@@ -45,7 +49,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://youtube.com/@ujvl0001?si=2Mys6EaJZn8HHpdK" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -68,12 +72,13 @@
 
 ###
 
-<img align="left" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif"  />
+
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg" alt="Snake animation" />
+
+![Ujjaval's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjaval01&theme=react-dark)
 
 ###
