@@ -22,9 +22,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)
  <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif"/> <br>
 <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="200" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="200" alt="languages graph" /> </div>
-
+<img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="200" />  
 ## 🛠️ Tech Stack  
 <div align="center">
   
@@ -80,12 +78,11 @@
 - 📈 **Active in Competitive Programming** communities  
 
 ---
-<div align="center">
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-dark-mode-only)
----
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjaval01&theme=react-dark)  
-  </div>
+
 ---
 
 ⭐️ From [Ujjaval Saini](https://github.com/ujjaval01)
