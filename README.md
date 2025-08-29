@@ -3,8 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=ujjaval01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<div align="center">  
+  
 ![GitHub Snake Light](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-dark-mode-only)
+
+</div>
 <!-- Quotes -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
