@@ -21,9 +21,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)  
 <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="180" />  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjaval01&theme=react-dark)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="280" />  
 
 </div>
 
@@ -84,9 +82,12 @@
 - 📈 **Active in Competitive Programming** communities  
 
 ---
+<div align="center">
 ![GitHub Snake Light](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-dark-mode-only)
-
+---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjaval01&theme=react-dark)  
+  </div>
 ---
 
 ⭐️ From [Ujjaval Saini](https://github.com/ujjaval01)
