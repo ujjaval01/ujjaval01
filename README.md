@@ -2,12 +2,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujjaval01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
----
 <!-- Quotes -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
----
 
 # 👋 Hi, I'm Ujjaval Saini  
  🚀 A passionate **Android Developer** from India 🇮🇳  
@@ -18,14 +16,10 @@
 - 🎯 Goal: To become a **Full-stack Android Developer**  
 - ⚡ Fun fact: I love problem-solving & creating cool UI designs  
 
----
-
 ## 🔥 GitHub Stats & Activity  
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)  
-## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ujjaval01&theme=radical&no-frame=true&row=1&column=7) 
 <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="180" />  
 
@@ -90,10 +84,9 @@
 - 📈 **Active in Competitive Programming** communities  
 
 ---
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg" alt="Snake animation" />
-</p>
+![GitHub Snake Light](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-dark-mode-only)
+
 ---
 
 ⭐️ From [Ujjaval Saini](https://github.com/ujjaval01)
