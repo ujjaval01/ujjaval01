@@ -16,13 +16,11 @@
 - 🎯 Goal: To become a **Full-stack Android Developer**  
 - ⚡ Fun fact: I love problem-solving & creating cool UI designs  
 
-## 🔥 GitHub Stats & Activity  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)  
-<img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="280" />  
-
----
+<div align="center"> 
+![Ujjaval GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)
+  <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif" /> <br> 
+  <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph " /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="200" alt="languages graph" /> </div>
 
 ## 🛠️ Tech Stack  
 <div align="center">
