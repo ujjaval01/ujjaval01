@@ -17,13 +17,10 @@
 - ⚡ Fun fact: I love problem-solving & creating cool UI designs  
 
 ## 🔥 GitHub Stats & Activity  
-<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)  
 <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="280" />  
-
-</div>
 
 ---
 
