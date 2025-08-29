@@ -19,12 +19,20 @@
   ## 🔥 GitHub Stats & Activity  
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)
- <img align="right" height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif"/> <br>
-<img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" />  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="200" />  
-## 🛠️ Tech Stack  
+## 📊 My GitHub Stats
+
 <div align="center">
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical) | <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif" height="180"/> 
+| <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="200"/> |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
