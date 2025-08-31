@@ -23,7 +23,6 @@
 - 🎯 Goal: To become a **Full-stack Android Developer**  
 - ⚡ Fun fact: I love problem-solving & creating cool UI designs
 
-  ## 🔥 GitHub Stats & Activity  
 <div align="center">
 
 ## 📊 My GitHub Stats
