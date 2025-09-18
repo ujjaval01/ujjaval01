@@ -1,0 +1,32 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at midnight
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Replace token in README
+        run: |
+          sed -i "s/YOUR_GITHUB_TOKEN/${{ secrets.GH_README_STATS_TOKEN }}/g" README.md
+
+      - name: Commit changes to new branch
+        run: |
+          git checkout -b readme-update
+          git add README.md
+          git commit -m "Update GitHub Stats"
+          git push origin readme-update
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GH_README_STATS_TOKEN }}
+          branch: readme-update
+          commit-message: "Update GitHub Stats"
+          title: "Automated GitHub Stats Update"
+          body: "This PR updates GitHub stats automatically."
