@@ -94,6 +94,8 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjaval01&theme=react-dark)  
 ![LeetCode Stats](https://leetcode.card.workers.dev/ujjaval01?theme=dark&font=baloo&extension=null)
+![GFG Stats](https://githubgfgstats.onrender.com/?userName=sainiujvl)
+
 
 ---
 
