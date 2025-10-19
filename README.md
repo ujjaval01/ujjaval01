@@ -31,7 +31,7 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjaval01&show_icons=true&theme=radical)  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif" height="180"/> 
  <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="200"/> 
 
- ![LeetCode Stats](https://leetcode.card.workers.dev/ujjaval01?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/ujjaval01?theme=dark&font=baloo&extension=null)
 ![GFG Stats](https://githubgfgstats.onrender.com/?userName=sainiujvl)
 
 </div>
@@ -88,7 +88,8 @@
 
 ---
 
-## 🏆 Achievements & Badges   
+## 🏆 Achievements & Badges
+- 👩‍💻 **Solve 230+ Java Question** Basic to Advanced level
 - 🏅 **Top 10% in HackerRank Java & Problem Solving**  
 - 🎖️ **Open Source Contributor** in GitHub projects  
 - 📈 **Active in Competitive Programming** communities  
