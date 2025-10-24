@@ -9,10 +9,10 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-dark-mode-only)
 
 </div>
-<!-- Quotes -->
-<p align="center">
+<!-- <!-- Quotes -->
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+</p> -->
 
 # 👋 Hi, I'm Ujjaval Saini  
  🚀 A passionate **Android Developer** from India 🇮🇳  
