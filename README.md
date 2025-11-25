@@ -10,9 +10,9 @@
 
 </div>
 <!-- <!-- Quotes -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p> -->
+</p> 
 
 # 👋 Hi, I'm Ujjaval Saini  
  🚀 A passionate **Android Developer** from India 🇮🇳  
