@@ -27,10 +27,10 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-
+  
 [![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ujjaval01?cardType=level&theme=radical&preferLogin=true)](https://git.io/awesome-stats-card)
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif" height="193"/> 
- <img src="https://streak-stats.demolab.com?user=ujjaval01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="195"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjaval01&layout=compact&langs_count=10&theme=dracula" height="195"/> 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/ujjaval01?theme=dark&font=baloo&extension=null)
 ![GFG Stats](https://githubgfgstats.onrender.com/?userName=sainiujvl)
