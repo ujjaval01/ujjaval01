@@ -28,10 +28,10 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  
+
 [![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ujjaval01?cardType=level&theme=radical&preferLogin=true)](https://git.io/awesome-stats-card)
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=ujjaval01)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=ujjaval01&theme=dark&hide_border=false)
 
 <a href="https://github.com/Ujjaval01/github-readme-stats"><img alt="Ujjaval01's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ujjaval01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="193px"/></a>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif" height="190"/>
