@@ -103,8 +103,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjaval01&theme=react-dark)  
 
-
-
 ---
 
 ⭐️ From [Ujjaval Saini](https://github.com/ujjaval01)
