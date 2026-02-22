@@ -3,7 +3,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=ujjaval01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-
 <div align="center">  
   
 ![GitHub Snake Light](https://raw.githubusercontent.com/ujjaval01/ujjaval01/output/snake.svg#gh-light-mode-only)
@@ -46,7 +45,6 @@
 ## 🛠️ Tech Stack
 <div align="center">
 
-  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
