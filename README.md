@@ -36,7 +36,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif" height="190"/>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/ujjaval01?theme=dark&font=baloo&extension=null)
-![GFG Stats](https://githubgfgstats.onrender.com/?userName=sainiujvl)
+<!-- ![GFG Stats](https://githubgfgstats.onrender.com/?userName=sainiujvl) -->
 
 </div>
 
