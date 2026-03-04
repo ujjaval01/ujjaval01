@@ -1,4 +1,4 @@
-<!-- Profile Counter(how many peoples checks -->
+<!-- Profile Counter(how many peoples checks profile-->
 <p align="center">
   
   <img src="https://komarev.com/ghpvc/?username=ujjaval01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
