@@ -35,8 +35,16 @@
 <a href="https://github.com/Ujjaval01/github-readme-stats"><img alt="Ujjaval01's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ujjaval01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="193px"/></a>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN0bGR1NHMzdXkwcHl4MWlyb28wNmdnOHRxMzY0bDMzZWtxN2MxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abw6pxR0swnRrUY/giphy.gif" height="190"/>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/ujjaval01?theme=dark&font=baloo&extension=null)
+![](https://leetcard.jacoblin.cool/ujjaval01?colors=012a4a,013a63,a9d6e5,ffffff,0077b6,0096c7,00b4d8,90e0ef)
+<!--![LeetCode Stats](https://leetcode.card.workers.dev/ujjaval01?theme=dark&font=baloo&extension=null) -->
 <!-- ![GFG Stats](https://githubgfgstats.onrender.com/?userName=sainiujvl) -->
+
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjaval01&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjaval01&theme=2077" height="180em" /></p>
+
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ujjaval01&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjaval01&theme=2077" height="180em" /></p>
+
 
 </div>
 
